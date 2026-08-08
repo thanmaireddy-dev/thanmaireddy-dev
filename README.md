@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me
 I'm a final-year Computer Science and Engineering student who enjoys building things with code and turning ideas into useful products.<br><br>What I do<br><br>📱 App Development<br>🎨 Front-end Development<br>⚙️ Back-end Development<br>🧩 Exploring Cloud & AI<br>I especially love building apps that solve real problems, make people's lives a little easier, and create meaningful impact in society. I'm always learning, experimenting, and trying to turn my ideas into something people can actually use.<br><br>A few things about me ☕<br>I'm a coffee addict<br>I enjoy building apps which solves real-world problems<br>I like learning by actually making things.<br>Currently surviving final year, placements, DSA, and a suspicious number of unfinished side projects.<br>Always building, Always learning :)
 
 
