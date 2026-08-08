@@ -1,6 +1,6 @@
 # Hi, I'm Thanmai 👋
 
-I'm a final-year Computer Science Engineering student who enjoys building things with code and turning ideas into useful products.
+I'm a final-year Computer Science and Engineering student who enjoys building things with code and turning ideas into useful products.
 
  **What I do**
 
