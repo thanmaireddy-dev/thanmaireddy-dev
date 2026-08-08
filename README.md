@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Thanmai 👋
 
-<!--
-**thanmaireddy-dev/thanmaireddy-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year Computer Science Engineering student who enjoys building things with code and turning ideas into useful products.
 
-Here are some ideas to get you started:
+💻 **What I do**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📱 App Development
+* 🎨 Front-end Development
+* ⚙️ Back-end Development
+* 🧩 Exploring Cloud & AI
+
+I especially love building apps that **solve real problems, make people's lives a little easier, and create meaningful impact in society.** I'm always learning, experimenting, and trying to turn my ideas into something people can actually use.
+
+### A few things about me ☕
+
+* I'm a coffee addict
+* I enjoy building apps which solves real-world problems
+* I like learning by actually making things.
+* Currently surviving final year, placements, DSA, and a suspicious number of unfinished side projects.
+
+**Always building, Always learning :) **
+
