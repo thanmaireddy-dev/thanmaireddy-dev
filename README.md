@@ -2,7 +2,7 @@
 
 I'm a final-year Computer Science Engineering student who enjoys building things with code and turning ideas into useful products.
 
-💻 **What I do**
+ **What I do**
 
 * 📱 App Development
 * 🎨 Front-end Development
@@ -18,5 +18,5 @@ I especially love building apps that **solve real problems, make people's lives 
 * I like learning by actually making things.
 * Currently surviving final year, placements, DSA, and a suspicious number of unfinished side projects.
 
-**Always building, Always learning :) **
+**Always building, Always learning :)**
 
